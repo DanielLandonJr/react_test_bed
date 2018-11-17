@@ -1,3 +1,19 @@
+# React Test Bed
+
+Application that allows me to test various code techniques using react.
+
+Currently FontAwesome and Bootstrap added to the index.html.
+
+Install it ...
+
+`npm install`
+
+Run It ...
+
+`npm run start`
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
